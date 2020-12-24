@@ -4,6 +4,7 @@ fb_pass = ""
 import time
 from selenium.webdriver.chrome.webdriver import WebDriver
 
+a = "Hello Sona"
 driver = WebDriver("chromedriver.exe")
 driver.get("https://tinder.com")
 
